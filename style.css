@@ -30,7 +30,7 @@ a {
   align-items: center;
   margin: auto;
   position: absolute;
-  width: 25%;
+  width: auto;
   text-align: center;
   flex-direction: center;
   background-color: grey;
