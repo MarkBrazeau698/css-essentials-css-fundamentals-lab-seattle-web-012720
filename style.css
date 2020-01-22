@@ -34,4 +34,5 @@ a {
   text-align: center;
   flex-direction: center;
   background-color: grey;
+  padding-left: 10px;
 }
