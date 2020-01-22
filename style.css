@@ -23,4 +23,5 @@ nav {
   display: block;
   float: left;
   align-items: center;
+  margin: 0;
 }
