@@ -20,4 +20,5 @@ nav {
 #details {
   display: block;
   float: left;
+  align-items: center;
 }
