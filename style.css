@@ -26,4 +26,5 @@ nav {
   position: absolute;
   width: 25%;
   text-align: center;
+  flex-direction: center;
 }
