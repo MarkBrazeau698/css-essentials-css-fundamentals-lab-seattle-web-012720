@@ -18,7 +18,6 @@ nav {
 }
 
 #details {
-  justify-content: center;
   display: flex;
   float: left;
   align-items: center;
