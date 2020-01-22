@@ -27,13 +27,11 @@ a {
   justify-content: center;
   display: flex;
   float: left;
-  align-items: auto;
+  align-items: center;
   margin: auto;
   position: absolute;
   width: 100%;
   text-align: center;
   flex-direction: center;
   background-color: grey;
-  padding-left: 10px;
-  padding-right: 10px;
 }
