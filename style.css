@@ -20,7 +20,7 @@ nav {
 #details {
   justify-content: center;
   position: absolute;
-  display: block;
+  display: flex;
   float: left;
   align-items: center;
   margin: 0;
