@@ -16,6 +16,11 @@ header {
 nav {
   text-align: center;
 }
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
 
 #details {
   justify-content: center;
