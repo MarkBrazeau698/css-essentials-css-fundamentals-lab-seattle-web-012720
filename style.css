@@ -27,7 +27,7 @@ a {
   justify-content: center;
   display: flex;
   float: left;
-  align-items: center;
+  align-items: auto;
   margin: auto;
   position: absolute;
   width: 100%;
