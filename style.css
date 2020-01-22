@@ -18,6 +18,8 @@ nav {
 }
 
 #details {
+  margin: 0;
+  position: absolute;
   display: block;
   float: left;
   align-items: center;
